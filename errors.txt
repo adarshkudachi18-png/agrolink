@@ -1,0 +1,2 @@
+src/config/brevo.ts(6,37): error TS2339: Property 'TransactionalEmailsApi' does not exist on type 'typeof import("C:/Users/ADITYA/Desktop/agro/backend/node_modules/@getbrevo/brevo/dist/cjs/index")'.
+src/services/notification.service.ts(5,43): error TS2339: Property 'SendSmtpEmail' does not exist on type 'typeof import("C:/Users/ADITYA/Desktop/agro/backend/node_modules/@getbrevo/brevo/dist/cjs/index")'.
